@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Charge",
+        "description": "Le lanceur charge la cible et la percute de tout son poids.",
+        "cost": 1,
+        "damages": 10
+    },
+    {
+        "id": 2,
+        "name": "Fouet Lianes",
+        "description": "Fouette la cible avec de fines lianes pour infliger des dégâts.",
+        "cost": 1,
+        "damages": 20
+    },
+    {
+        "id": 3,
+        "name": "Flammèche",
+        "description": "La cible est attaquée par une faible flamme qui peut aussi la brûler.",
+        "cost": 1,
+        "damages": 20
+    },
+    {
+        "id": 4,
+        "name": "Pistolet à O",
+        "description": "De l’eau est projetée avec force sur la cible.",
+        "cost": 1,
+        "damages": 20
+    }
+]
