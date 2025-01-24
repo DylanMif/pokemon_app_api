@@ -180,7 +180,7 @@
         "name": "Superdofin",
         "hp": 150,
         "type": ["Eau"],
-        "illustration": "https://www.pokepedia.fr/images/thumb/5/5c/Dofin-EV.png/250px-Dofin-EV.png",
+        "illustration": "https://www.pokepedia.fr/images/thumb/9/90/Superdofin_%28Forme_Super%29-EV.png/150px-Superdofin_%28Forme_Super%29-EV.png",
         "moves": [21,23],
         "weakness": ["Plante", "Électrik"],
         "strenghts": ["Feu", "Eau"],
