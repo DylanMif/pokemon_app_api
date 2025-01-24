@@ -306,5 +306,19 @@
         "description": "Cette attaque inflige 50 dégâts supplémentaires pour chaque Tarak dans votre pile de défausse",
         "cost": 2,
         "damages": 100
+    },
+    {
+        "id": 45,
+        "name": "Queue Mystérieuse",
+        "description": "Une fois dans votre tour, regardez les 6 cartes du dessus de votre deck, montrer une carte object que vous prennez. Mélangez votre deck",
+        "cost": 0,
+        "damages": 0
+    },
+    {
+        "id": 46,
+        "name": "Piqûre Psy",
+        "description": "",
+        "cost": 2,
+        "damages": 30
     }
 ]

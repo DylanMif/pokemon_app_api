@@ -328,5 +328,16 @@
         "weakness": ["Eau", "Roche"],
         "strenghts": ["Plante", "Sol"],
         "retreatCost": 3
+    },
+    {
+        "id": 30,
+        "name": "Mew",
+        "hp": 60,
+        "type": ["Psy"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/1/16/Mew-DEPS.png/250px-Mew-DEPS.png",
+        "moves": [45, 46],
+        "weakness": ["Ténébres"],
+        "strenghts": ["Combat"],
+        "retreatCost": 1
     }
 ]
