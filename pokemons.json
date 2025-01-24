@@ -270,7 +270,7 @@
         "type": ["Plante", "Poison"],
         "illustration": "https://www.pokepedia.fr/images/thumb/4/44/Herbizarre-RFVF.png/250px-Herbizarre-RFVF.png",
         "moves": [33, 34],
-        "weakness": ["Fire", "Psy"],
+        "weakness": ["Feu", "Psy"],
         "strenghts": ["Eau", "Fée"],
         "retreatCost": 4
     },
@@ -281,7 +281,7 @@
         "type": ["Plante", "Poison"],
         "illustration": "https://www.pokepedia.fr/images/thumb/4/42/Florizarre-RFVF.png/250px-Florizarre-RFVF.png",
         "moves": [35, 36],
-        "weakness": ["Fire", "Psy"],
+        "weakness": ["Feu", "Psy"],
         "strenghts": ["Eau", "Fée"],
         "retreatCost": 4
     },
