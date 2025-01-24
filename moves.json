@@ -166,5 +166,145 @@
         "description": "Cette attaque inflige aussi 30 dégats à l'un des Pokémon de Banc de votre adversaire",
         "cost": 4,
         "damages": 100
+    },
+    {
+        "id": 25,
+        "name": "Rafale Magnifique",
+        "description": "Défaussez toute l'Énergie de base de ce Pokémon. Cette attaque inflige 80 dégâts pour chaque type d'Énergie de base défaussée de cette façon",
+        "cost": 3,
+        "damages": 80
+    },
+    {
+        "id": 26,
+        "name": "Hautes Eaux",
+        "description": "Attachez 2 cartes Énergie eau de votre pile de défausse à l'un de vos Pokémons",
+        "cost": 1,
+        "damages": 0
+    },
+    {
+        "id": 27,
+        "name": "Vagues Tourbillonnantes",
+        "description": "Défaussez une Énergie de ce Pokémon",
+        "cost": 4,
+        "damages": 130
+    },
+    {
+        "id": 28,
+        "name": "Volcan Magma",
+        "description": "Défaussez les 5 cartes du dessus de votre deck. Cette attaque inflige 80 dégâts pou chaque carte Énergie défaussée de cette façon",
+        "cost": 3,
+        "damages": 80
+    },
+    {
+        "id": 29,
+        "name": "Déchirure Massive",
+        "description": "",
+        "cost": 4,
+        "damages": 120
+    },
+    {
+        "id": 30,
+        "name": "Tempête Océanique",
+        "description": "Déplacez 2 Énergies de ce Pokémon vers l'un de vos Pokémon de Banc. Cette attaque inflige 30 dégats à chacun des Pokémon-EX de Banc de votre adversaire",
+        "cost": 4,
+        "damages": 150
+    },
+    {
+        "id": 31,
+        "name": "Volcan de Gaïa",
+        "description": "S'il y a une carte Stade en jeu, cette attaque inflige 100 dégats supplémentaire. Défaussez la carte Stage",
+        "cost": 4,
+        "damages": 100
+    },
+    {
+        "id": 32,
+        "name": "Draco Ascension",
+        "description": "Défaussez 2 Énergie attachées à ce Pokémon",
+        "cost": 5,
+        "damages": 300
+    },
+    {
+        "id": 33,
+        "name": "Tranch'Herbe",
+        "description": "",
+        "cost": 2,
+        "damages": 30
+    },
+    {
+        "id": 34,
+        "name": "Fouet Toxique",
+        "description": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné",
+        "cost": 4,
+        "damages": 50
+    },
+    {
+        "id": 35,
+        "name": "Senteur Florale",
+        "description": "Une seule fois pendant votre tout, vous pouvez chercher un Pokémon dans votre deck, le montrer et l'ajouter à votre main. Mélangez ensite votre deck",
+        "cost": 0,
+        "damages": 0
+    },
+    {
+        "id": 36,
+        "name": "Poudre Toxik",
+        "description": "Le Pokémon Défenseur est maintenant Empoisonné",
+        "cost": 4,
+        "damages": 70
+    },
+    {
+        "id": 37,
+        "name": "Plongée en Apnée",
+        "description": "Ajoutez jusqu'à 3 cartes Énergie eau de base de votre pile de défausse à votre main",
+        "cost": 1,
+        "damages": 0
+    },
+    {
+        "id": 38,
+        "name": "Attaque Tournante",
+        "description": "",
+        "cost": 2,
+        "damages": 50
+    },
+    {
+        "id": 39,
+        "name": "Source de Vitalité",
+        "description": "Une fois pendant votre tour, vous pouvez chercher dans votre deck jusquà 6 cartes Énergie, puis les attacher à votre Pokémon. Mélangez ensuite votre deck",
+        "cost": 0,
+        "damages": 0
+    },
+    {
+        "id": 40,
+        "name": "Hydrocanon",
+        "description": "Cette attaque inflige 30 dégâts supplémentaire pour chaque Énergie eau attachée à ce Pokémon",
+        "cost": 4,
+        "damages": 90
+    },
+    {
+        "id": 41,
+        "name": "Tranche",
+        "description": "",
+        "cost": 2,
+        "damages": 30
+    },
+    {
+        "id": 42,
+        "name": "Lance-Flamme",
+        "description": "",
+        "cost": 3,
+        "damages": 80
+    },
+    {
+        "id": 43,
+        "name": "Sens du Combat",
+        "description": "Une fois pendant votre tour, vous pouvez regarder les 3 cartes du dessus de votre deck, puis ajouter l'une d'elles à votre main. Défaussez les autres cartes",
+        "cost": 0,
+        "damages": 0
+    },
+    {
+        "id": 44,
+        "name": "Flambée Royale",
+        "description": "Cette attaque inflige 50 dégâts supplémentaires pour chaque Tarak dans votre pile de défausse",
+        "cost": 2,
+        "damages": 100
     }
 ]

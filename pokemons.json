@@ -196,5 +196,137 @@
         "weakness": ["Plante", "Électrik"],
         "strenghts": ["Feu", "Eau"],
         "retreatCost": 2
+    },
+    {
+        "id": 18,
+        "name": "Kyogre",
+        "hp": 130,
+        "type": ["Eau"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/e/e4/Kyogre-RS.png/250px-Kyogre-RS.png",
+        "moves": [26, 27],
+        "weakness": ["Plante"],
+        "strenghts": ["Feu"],
+        "retreatCost": 3
+    },
+    {
+        "id": 19,
+        "name": "Groudon",
+        "hp": 130,
+        "type": ["Sol"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/5/5f/Groudon-RS.png/250px-Groudon-RS.png",
+        "moves": [28, 29],
+        "weakness": ["Eau"],
+        "strenghts": ["Électrik"],
+        "retreatCost": 3
+    },
+    {
+        "id": 20,
+        "name": "Rayquaza",
+        "hp": 120,
+        "type": ["Dragon", "Vol"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/1/1a/Rayquaza-DEPS.png/250px-Rayquaza-DEPS.png",
+        "moves": [25],
+        "weakness": ["Électrik"],
+        "strenghts": ["Sol", "Eau"],
+        "retreatCost": 2
+    },
+    {
+        "id": 21,
+        "name": "Primo-Kyogre",
+        "hp": 240,
+        "type": ["Eau"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/0/00/Primo-Kyogre-ROSA.png/250px-Primo-Kyogre-ROSA.png",
+        "moves": [25],
+        "weakness": ["Plante"],
+        "strenghts": ["Feu"],
+        "retreatCost": 4
+    },
+    {
+        "id": 22,
+        "name": "Primo-Grouon",
+        "hp": 240,
+        "type": ["Sol", "Feu"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/3/37/Primo-Groudon-ROSA.png/250px-Primo-Groudon-ROSA.png",
+        "moves": [31],
+        "weakness": ["Eau"],
+        "strenghts": ["Électrik"],
+        "retreatCost": 4
+    },
+    {
+        "id": 23,
+        "name": "Méga-Rayquaza",
+        "hp": 230,
+        "type": ["Dragon", "Vol"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/1/14/M%C3%A9ga-Rayquaza-ROSA.png/250px-M%C3%A9ga-Rayquaza-ROSA.png",
+        "moves": [32],
+        "weakness": ["Fairy"],
+        "strenghts": ["Sol", "Eau"],
+        "retreatCost": 2
+    },
+    {
+        "id": 24,
+        "name": "Herbizarre",
+        "hp": 100,
+        "type": ["Plante", "Poison"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/4/44/Herbizarre-RFVF.png/250px-Herbizarre-RFVF.png",
+        "moves": [33, 34],
+        "weakness": ["Fire", "Psy"],
+        "strenghts": ["Eau", "Fairy"],
+        "retreatCost": 4
+    },
+    {
+        "id": 25,
+        "name": "Florizarre",
+        "hp": 140,
+        "type": ["Plante", "Poison"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/4/42/Florizarre-RFVF.png/250px-Florizarre-RFVF.png",
+        "moves": [35, 36],
+        "weakness": ["Fire", "Psy"],
+        "strenghts": ["Eau", "Fairy"],
+        "retreatCost": 4
+    },
+    {
+        "id": 26,
+        "name": "Carabaffe",
+        "hp": 100,
+        "type": ["Eau"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/2/2a/Carabaffe-RFVF.png/250px-Carabaffe-RFVF.png",
+        "moves": [37, 38],
+        "weakness": ["Électrik"],
+        "strenghts": ["Feu"],
+        "retreatCost": 2
+    },
+    {
+        "id": 27,
+        "name": "Tortank",
+        "hp": 170,
+        "type": ["Eau"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/2/24/Tortank-RFVF.png/250px-Tortank-RFVF.png",
+        "moves": [39, 40],
+        "weakness": ["Électrik"],
+        "strenghts": ["Feu"],
+        "retreatCost": 3
+    },
+    {
+        "id": 28,
+        "name": "Reptincel",
+        "hp": 100,
+        "type": ["Feu"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/6/64/Reptincel-RFVF.png/250px-Reptincel-RFVF.png",
+        "moves": [41, 42],
+        "weakness": ["Eau"],
+        "strenghts": ["Plante"],
+        "retreatCost": 1
+    },
+    {
+        "id": 29,
+        "name": "Dracaufeu",
+        "hp": 170,
+        "type": ["Feu", "Vol"],
+        "illustration": "https://www.pokepedia.fr/images/thumb/1/17/Dracaufeu-RFVF.png/250px-Dracaufeu-RFVF.png",
+        "moves": [43, 44],
+        "weakness": ["Eau", "Roche"],
+        "strenghts": ["Plante", "Sol"],
+        "retreatCost": 3
     }
 ]
