@@ -341,5 +341,5 @@
         "description": "Vous pouvez mélanger avec votre deck ce Pokémon et toutes les cartes qui lui sont attachées",
         "cost": 3,
         "damages": 100
-    },
+    }
 ]
