@@ -336,7 +336,7 @@
         "type": ["Psy"],
         "illustration": "https://www.pokepedia.fr/images/thumb/1/16/Mew-DEPS.png/250px-Mew-DEPS.png",
         "moves": [45, 46],
-        "weakness": ["Ténébres"],
+        "weakness": ["Ténèbres"],
         "strenghts": ["Combat"],
         "retreatCost": 1
     },
@@ -347,7 +347,7 @@
         "type": ["Spectre"],
         "illustration": "https://www.pokepedia.fr/images/thumb/b/b2/Mordudor_%28Forme_Coffre%29-EV.png/250px-Mordudor_%28Forme_Coffre%29-EV.png",
         "moves": [1, 47],
-        "weakness": ["Ténébres", "Spectre"],
+        "weakness": ["Ténèbres", "Spectre"],
         "strenghts": ["Combat", "Normal"],
         "retreatCost": 1
     },
@@ -358,7 +358,7 @@
         "type": ["Acier","Spectre"],
         "illustration": "https://www.pokepedia.fr/images/thumb/8/8c/Gromago-EV.png/250px-Gromago-EV.png",
         "moves": [48, 49],
-        "weakness": ["Ténébres", "Spectre"],
+        "weakness": ["Ténèbres", "Spectre"],
         "strenghts": ["Combat", "Normal"],
         "retreatCost": 1
     }
