@@ -2,9 +2,6 @@
     {
         "id": 1,
         "name": "Test",
-        "category": "Object",
-        "illustration": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
-        "action": "Réalise un test unitaire",
-        "condition": "Doit être joué par un développeur"
+        "illustration": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png"
     }
 ]
