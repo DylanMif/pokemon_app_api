@@ -1,12 +1,57 @@
 [
     {
         "id": 1,
-        "name": "Test",
-        "illustration": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png"
+        "name": "Normal",
+        "illustration": "https://www.pokepedia.fr/images/8/8a/Miniature_Type_Incolore_JCC.png"
     },
     {
         "id": 2,
         "name": "Eau",
         "illustration": "https://www.pokepedia.fr/images/9/98/Miniature_Type_Eau_JCC.png"
+    },
+    {
+        "id": 3,
+        "name": "Feu",
+        "illustration": "https://www.pokepedia.fr/images/e/e5/Miniature_Type_Feu_JCC.png"
+    },
+    {
+        "id": 4,
+        "name": "Plante",
+        "illustration": "https://www.pokepedia.fr/images/c/cd/Miniature_Type_Plante_JCC.png"
+    },
+    {
+        "id": 5,
+        "name": "Électrique",
+        "illustration": "https://www.pokepedia.fr/images/4/41/Miniature_Type_%C3%89lectrique_JCC.png"
+    },
+    {
+        "id": 6,
+        "name": "Psy",
+        "illustration": "https://www.pokepedia.fr/images/e/e2/Miniature_Type_Psy_JCC.png"
+    },
+    {
+        "id": 7,
+        "name": "Combat",
+        "illustration": "https://www.pokepedia.fr/images/1/13/Miniature_Type_Combat_JCC.png"
+    },
+    {
+        "id": 8,
+        "name": "Obscurité",
+        "illustration": "https://www.pokepedia.fr/images/5/5a/Miniature_Type_Obscurit%C3%A9_JCC.png"
+    },
+    {
+        "id": 9,
+        "name": "Acier",
+        "illustration": "https://www.pokepedia.fr/images/f/f9/Miniature_Type_M%C3%A9tal_JCC.png"
+    },
+    {
+        "id": 10,
+        "name": "Fée",
+        "illustration": "https://www.pokepedia.fr/images/d/d1/Miniature_Type_F%C3%A9e_JCC.png"
+    },
+    {
+        "id": 11,
+        "name": "Dragon",
+        "illustration": "https://www.pokepedia.fr/images/0/09/Miniature_Type_Dragon_JCC.png"
     }
 ]
