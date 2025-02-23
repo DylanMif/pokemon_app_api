@@ -3,5 +3,10 @@
         "id": 1,
         "name": "Test",
         "illustration": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png"
+    },
+    {
+        "id": 2,
+        "name": "Eau",
+        "illustration": "https://www.pokepedia.fr/images/9/98/Miniature_Type_Eau_JCC.png"
     }
 ]

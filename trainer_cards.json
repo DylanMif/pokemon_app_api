@@ -6,5 +6,13 @@
         "illustration": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
         "action": "Réalise un test unitaire",
         "condition": "Doit être joué par un développeur"
+    },
+    {
+        "id": 2,
+        "name": "Koga",
+        "category": "Supporter",
+        "illustration": "https://www.pokepedia.fr/images/thumb/e/e7/Koga-LGPE.png/779px-Koga-LGPE.png?20181125135708",
+        "action": "Ajouter votre Grotadmorv ou votre Smogogo sur le Poste Actif à votre main",
+        "condition": "Vous ne pouvez jouer Koga qu'une fois par tour"
     }
 ]
